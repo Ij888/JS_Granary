@@ -1,6 +1,5 @@
 //Function Expression. Way 1 of 3 to create a function
-//var r, t, d, k, a, b;
-
+/*
 var toAdd = function(a, b){
     var result = a + b;
     console.log(result);
@@ -8,3 +7,10 @@ var toAdd = function(a, b){
 }
 
 toAdd(3, 5);
+*/
+
+//Function Declaration. Way 1 of 3 to create a function
+
+function add(x, y) {
+    return x + y;
+}
