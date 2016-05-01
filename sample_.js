@@ -9,7 +9,7 @@ var toAdd = function(a, b){
 toAdd(3, 5);
 */
 
-//Function Declaration. Way 1 of 3 to create a function
+//Function Declaration. Way 2 of 3 to create a function
 
 function add(x, y) {
     return x + y;
