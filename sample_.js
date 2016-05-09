@@ -11,6 +11,6 @@ toAdd(3, 5);
 
 //Function Declaration. Way 2 of 3 to create a function
 
-function add(a, b) {
+function toAdd(a, b) {
     return a + b;
 }
